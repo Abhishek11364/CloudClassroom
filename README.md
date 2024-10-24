@@ -21,6 +21,4 @@ Step 7: Open Browser and enter in URL bar "localhost/<folder_name>" without quot
 
 Done!
 
-if you still need help. don't shy to ask, I'll happy to help you.
 
-Email: connect@vishalmathur.in & MathurVishal@outlook.com
